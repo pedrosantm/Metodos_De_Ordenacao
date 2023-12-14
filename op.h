@@ -222,3 +222,5 @@ void merge(aluno *vetor, int inicio, int meio, int fim, Contadores *cont) {
         cont->movimentacoes++; // Contabiliza uma movimentação
     }
 }
+
+////
